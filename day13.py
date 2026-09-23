@@ -1,0 +1,64 @@
+# ## Core Python :-
+# => 5W things,
+# => Variable
+# => operators
+# => Strings
+# => LIst
+# ...............
+# => loops ( for, while)
+# => conditional stmt
+# => nested if , if-elif 
+# => Functions
+# .....................
+
+# Python OOPS.
+# => INheritance
+# => Polymorphism
+# => Abstraction
+# => Encapsulation
+# -------------------------------------------------------------------------
+
+# ## Database :-
+# => it is used to store data in an organized form.
+# => MYSQL , PgSQL, DBSqlite. 
+
+# => table create, insert data, update data, drop table, drop colm, joins two table...................
+
+
+# --------------------------------------------------------------- 
+
+# Frontend:-
+# => HTML, HTML5, => it is used to build body of any web page.
+# => CSS, CSS3 => 
+# => Bootstrap 5.3.8 (CSS Library) => combination  of Html and css
+# => React ( javascript Library)
+
+# ---------------------------------------------------------------------
+
+# ## BACKEND: 
+
+# => HOw to setup a basic Django Project (ROcket LAunch)
+# => HOw to create admin Panel. 
+
+# => how to create superuser
+# => CRUD ( Create , Retrieve/Read, Update, Delete)
+# => get method, post method, put method, patch methd, 
+
+# => 6 projects.
+
+# => HOw to create api (Swagger & POstman ) 
+# => get method => data show 
+# => post method => data store 
+# => put => update, 
+# => patch => Partially updated
+
+
+# ## Database ( Tenants ):-
+# ## Seeder run ( Sample data for database)
+# ## Crone Jobs 
+# ## send email message on Gmail application (SMTP)
+# ## 2 Step veryfication
+# ## how to integrate razorpay payment integration and stripe integration.
+# ## Resume Building Session.
+
+# total : 11 Projects
